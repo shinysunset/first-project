@@ -40,7 +40,6 @@ print("Hello, paradise!")
 ```
 ```C++
 
-<h2>Просто текст><h2>
 
 #include <iostream>
 
@@ -54,6 +53,8 @@ int main() {
 ```C
 printf("??");
 ```
+
+
 
 read
 me
